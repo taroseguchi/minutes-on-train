@@ -13,7 +13,7 @@ It takes 14 minutes from Shibuya to Hiyoshi.
 
 It takes 37 minutes from Aobadai to Bashamichi.
 
-%./a.out foge
+%./a.out hoge
 
 Usage: ./a.out　<start> <goal>
 
