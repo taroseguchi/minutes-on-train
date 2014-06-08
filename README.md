@@ -15,7 +15,7 @@ It takes 37 minutes from Aobadai to Bashamichi.
 
 %./a.out hoge
 
-Usage: ./a.out　<start> <goal>
+Usage: ./a.out　start goal
 
 % ./a.out Shibuyo Nakameguro
 
